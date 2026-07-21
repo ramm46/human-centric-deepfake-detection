@@ -1,0 +1,13 @@
+torch>=2.1.0
+torchvision>=0.16.0
+streamlit>=1.30.0
+Pillow>=10.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Optional: only needed if you use the Gemini-based explanation
+# (explainability/llm_explanation.py) or the Kaggle dataset download
+# helper. Safe to omit if you don't need those features.
+google-genai>=0.3.0
+kaggle>=1.6.0
+python-dotenv>=1.0.0
