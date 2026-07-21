@@ -13,10 +13,10 @@ env/
 kaggle.json
 
 # Model checkpoints and data (large binary artifacts, keep out of git)
-checkpoints/*.pth
+#checkpoints/*.pth
 data_root/
-*.pth
-*.pt
+#*.pth
+#*.pt
 
 # Jupyter
 .ipynb_checkpoints/
