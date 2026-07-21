@@ -160,6 +160,28 @@ Upload a JPG/PNG/JPEG image and the app will display the prediction, confidence,
 
 ## Screenshots
 
+### Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### Real Image Prediction
+
+![Real Prediction](screenshots/real_prediction.png)
+
+---
+
+### AI Generated Image Prediction
+
+![Fake Prediction](screenshots/fake_prediction.png)
+
+---
+
+### AI Explanation
+
+![Explanation](screenshots/ai_explanation.png)
+
 <!-- Add screenshots of the Streamlit app here, e.g.: -->
 <!-- ![App screenshot](docs/screenshot-1.png) -->
 
